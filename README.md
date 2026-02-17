@@ -8,4 +8,4 @@
 
 # Current Side Coding Projects
 
-- 🧠 [superBrain](https://github.com/filippostmech/superbrain) - knowledge base for posts of my favorite content channels (LinkedIn, Substack and more coming soon) with automated browser capture
+- 🧠 [superBrain](https://github.com/filippostmech/superbrain) - personal knowledge base for my professional reading (LinkedIn, Substack and more coming soon) with automated browser capture
